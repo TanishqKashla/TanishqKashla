@@ -34,5 +34,7 @@ When I'm not coding or designing, you'll find me indulging in some of my favorit
 💬 Let's Connect<br>
 I believe in the power of community and collaboration. If you have any projects, ideas, or just want to chat about tech, design, or F1 racing, feel free to reach out to me. Let's connect and create something amazing together!
 
+![shrek-smile](https://github.com/TanishqKashla/meme-sound-button-project/assets/143280732/e5812cd0-0b64-4214-9a38-53ce82b2cc1b)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=TanishqKashla&icon=0&color=0)](https://visitcount.itsvg.in)
