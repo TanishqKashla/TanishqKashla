@@ -1,5 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Tanishq Kashla! Welcome to my GitHub profile! I'm thrilled to have you here.<br><br>
+
 🧑‍💻 **About Me**<br>
 I am Tanishq Kashla, a passionate learner diving deep into the world of technology and design. <br>Currently, I'm honing my skills in:<br>
 - Full Stack Web Development: Building dynamic and responsive web applications from scratch.<br>
@@ -8,13 +9,14 @@ I am Tanishq Kashla, a passionate learner diving deep into the world of technolo
 <br>
 I love exploring new technologies and constantly pushing the boundaries of my creativity. Whether it's coding, designing, or brainstorming innovative solutions, I'm always up for a challenge.
 <br><br>
+
 🚀 **Interests**<br>
 When I'm not coding or designing, you'll find me indulging in some of my favorite interests:<br><br>
 - **F1 Racing:** A huge fan of Formula 1, I love discussing the latest races, teams, and everything motorsport. Feel free to chat with me about the fastest sport on the planet!<br>
 - **Creative Stuff:** From graphic design to digital art, I enjoy expressing my creativity in various forms. Let's talk about anything from design trends to creative workflows!<br>
-- **Exploring New Technologies and Skills:** I have a keen interest in learning about emerging technologies and acquiring new skills. Whether it’s a new a cutting-edge framework, or an innovative tool, I’m always eager to explore and expand my knowledge.<br>
-- **Memes and Social Media Trends:** I am a self-proclaimed memeholic and love keeping up with the latest trends on social media. From political satire to the latest in geopolitics, news, and sports, I enjoy staying informed and entertained by the ever-evolving world of memes.
-- <br><br>
+- **Exploring New Technologies and Skills:** I have a keen interest in learning about emerging technologies and acquiring new skills. Whether it’s a new cutting-edge framework or an innovative tool, I’m always eager to explore and expand my knowledge.<br>
+- **Memes and Social Media Trends:** I am a self-proclaimed memeholic and love keeping up with the latest trends on social media. From political satire to the latest in geopolitics, news, and sports, I enjoy staying informed and entertained by the ever-evolving world of memes.<br><br>
+
 💬 **Let's Connect**<br>
 I believe in the power of community and collaboration. If you have any projects, ideas, or just want to chat about tech, design, or F1 racing, feel free to reach out to me. Let's connect and create something amazing together!
 
