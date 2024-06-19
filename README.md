@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 💫 My README.md:
 👋 Hi, I'm Tanishq Kashla! Welcome to my GitHub profile! I'm thrilled to have you here.<br><br>
 
-🧑‍💻 **About Me**<br>
+🧑‍💻**About Me**<br>
 I am Tanishq Kashla, a passionate learner diving deep into the world of technology and design. <br>Currently, I'm honing my skills in:<br>
 - Full Stack Web Development: Building dynamic and responsive web applications from scratch.<br>
 - UI/UX Design: Creating user-centric designs that are both beautiful and functional.<br>
@@ -31,10 +31,6 @@ I believe in the power of community and collaboration. If you have any projects,
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TanishqKashla&theme=darcula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqKashla&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=TanishqKashla&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
